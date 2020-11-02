@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Quiz App Project</string>
+    <string name="Quiz_Question_1">Q1. What type of View do you need to use if you want to add text in your Android application?</string>
+    <string name="Quiz_Question_2">Q2. Check all options which relate to View Groups in Android:</string>
+    <string name="Quiz_Question_3">Q3. Which of the following View is used to display a picture?</string>
+    <string name="Quiz_Question_4">Q4. Which View Group allows the user to scroll through the page if lots of information is available on screen?</string>
+    <string name="text_linear_layout">Linear Layout</string>
+    <string name="text_image_view">Image View</string>
+    <string name="text_relative_layout">Relative Layout</string>
+    <string name="text_scroll_view">Scroll View</string>
+    <string name="textview">TextView</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="radio_button">Radio Button</string>
+    <string name="imageview">ImageView</string>
+    <string name="type_your_answer_here">Type your answer here</string>
+    <string name="submit_score">Submit Score</string>
+</resources>
